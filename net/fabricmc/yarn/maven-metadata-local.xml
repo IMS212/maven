@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.fabricmc</groupId>
+  <artifactId>yarn</artifactId>
+  <versioning>
+    <release>21w03a</release>
+    <versions>
+      <version>21w03a</version>
+    </versions>
+    <lastUpdated>20210120175250</lastUpdated>
+  </versioning>
+</metadata>
